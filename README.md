@@ -15,4 +15,4 @@
 ### Assumptions and Dependencies
 #### The main Purpose of the whole project is to provide realistic concept of assistance for drivers within day-to-day operations for drivers assuming some hardware comprises and tolerated in accuracy within specific threshold.
 #### For More Information about the SRS should be Explained [Here]([SRS.docx](https://github.com/EL-Gohary1/ADAS-using-Tiva-C-Series-TM4C123GH6PM/files/14950298/SRS.docx)
-)
+
